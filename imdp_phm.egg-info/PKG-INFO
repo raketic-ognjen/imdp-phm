@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: imdp_phm
+Version: 0.4.0
+Summary: Condition-Based Maintenance under Imprecise Self-Exciting Jump-Diffusion Degradation
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: scipy>=1.11.0
+Requires-Dist: torch>=2.1.0
+Requires-Dist: fastapi>=0.110.0
+Requires-Dist: uvicorn[standard]>=0.27.0
+Requires-Dist: pydantic>=2.6.0
+Requires-Dist: pytest>=8.0.0
